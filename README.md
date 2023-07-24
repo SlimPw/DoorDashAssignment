@@ -1,4 +1,6 @@
-# DoorDashAssignment from Interviewquery platform, link at: https://www.interviewquery.com/takehomes/doordash-1 
+# DoorDashAssignment 
+
+Assignment at Interviewquery, link at: https://www.interviewquery.com/takehomes/doordash-1 
 
 Overview
 
